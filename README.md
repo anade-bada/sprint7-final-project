@@ -19,5 +19,5 @@ Analizar patrones de uso de servicios móviles (llamadas y mensajes) de Connecta
 
 ## 🚀 Cómo Ejecutar
 1. Abre [github.com](https://github.com/)
-2. Da clic en el link del proyecto: [https://github.com/anade-bada/sprint7-final-project/new/main?filename=README.md]] 
+2. Da clic en el link del proyecto: 
 
